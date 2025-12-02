@@ -1,8 +1,10 @@
-# DCA3501-CD-Projeto-Final
+# Projeto Final de DCA3501 - Ciência de Dados
 Repositório para o trabalho final da disciplina DCA3501 - Ciência de Dados da UFRN
 
-Alunos: 
+**Alunos:** 
+
 Hugo 
+
 Renan
 
-Tema: Comparativo entre Perceptron e MLP
+**Tema: Comparativo entre Perceptron e MLP**
